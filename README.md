@@ -2,6 +2,7 @@
 
 ![banner](docs/banner.svg)
 [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg)](https://pkg.go.dev/github.com/yael-castro/gpm)
+[![Go Report Card](https://goreportcard.com/badge/github.com/yael-castro/gpm)](https://goreportcard.com/report/github.com/yael-castro/gpm)
 
 
 #### Overview
@@ -46,7 +47,7 @@ ____|________
 ```
 And the ideal data structure for this purpose is the hash map.
 
-#### Bitwise operators
+###### Bitwise operators
 The bitwise operators can help to create permission constants
 
 `<< (LEFT SHIFT)`
